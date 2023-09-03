@@ -1,4 +1,4 @@
-module github.com/second-state/WasmEdge-go
+module github.com/arnabnandikgp/WasmEdge-go
 
 go 1.16
 
