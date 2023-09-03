@@ -23,8 +23,8 @@ load("@bazel_gazelle//:deps.bzl", "gazelle_dependencies", "go_repository")
 
 go_repository(
     name = "com_github_arnabnandikgp_wasmedge_go",
-    importpath = "github.com/arnabnandikgp/WasmEdge-go/v2",
-    version = "v2.0.0",
+    importpath = "github.com/arnabnandikgp/WasmEdge-go",
+    version = "v0.13.0",
 )
 
 go_repository(
